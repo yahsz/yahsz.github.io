@@ -3,3 +3,40 @@ body {
     color: darkblue;
     font-size: 25px;
 }
+
+img {
+    width: 400px;
+    padding: 20px;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blueviolet;
+}
+
+.paragrafos {
+    background-color: antiquewhite;
+    width: 80%;
+    height: 150px;
+    text-align: justify;
+    color: black;
+    overflow: auto;
+    padding: 30px;
+}
+
+article {
+    text-align: justify;
+    display: block;
+    background-color: gray;
+    color: brown;
+    width: 80%;
+    height: 150px;
+    overflow: auto;
+    padding: 30px;
+}
+
+.nav_links li {
+    display: inline-block;
+    width: 200px;
+
+}
